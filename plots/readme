@@ -1,0 +1,26 @@
+plot n1:
+- shows taht high daily energy consumption is entirely driven by solid biomass fuels (rice husk), having rated capacity of 1170. Pellet heaters mostly occupy mid-range capacity vs energy consumption. electric and diesel units are clustered at near the origin, with low thermal capacitirs, and low daily energy input.
+- all most all unit lie below 10h/day full load reference line, indicating that the plant rarely operates at maximum continuous capacity.
+
+plot n2:
+- all surveyed units lie far below 100% nameplate rating line.
+- For instance, the largest rice husk heater operates at an implied average input power of only 500. Pellet systems rated at 700 KW-th operate at 220. 
+- This confirms that existing thermal fluid heaters in Nepalese plastic plants are significantly oversized relative to their actual operational power draws.
+
+plot n3:
+- All surveyed plants operate below their total installed transformer capacity. For example, Galaxy Packaging has a 1,000 kVA transformer with a maximum demand of 860kW, while National Plastic I has a 500 kVA transformer with a demand of 250 kW.
+- The shaded demand trendline highlights existing spare electrical capacity across facilities, indicating that some plants may be able to absorb moderate electric heating retrofits without immediate transformer upgrades.
+
+plot n4:
+- Solid biomass (rice husk) is the dominant energy source, consuming 12,000 kWh/day equally across both laminating and printing sub-sectors. Pellet fuels power significant thermal demand in printing 7,400 kWh/day with minor use in laminating 700 kWh/day.
+-  Electricity contributes 2,350 kWh/day in laminating and minimal energy in printing. Diesel usage is negligible kWh/day.
+
+plot n6:
+- Implied utilization across all units ranges from $<5\%$ to a maximum of 48%. No unit operates above 50% of its nameplate capacity, quantifying a sector-wide pattern of thermal heater oversizing. 
+
+Relevance:
+- Evaluates Grid &amp: Electrical Infrastructure Readiness (ToR Section 4): The ToR calls for assessing electrical distribution infrastructure, including transformer capacity, sanctioned demand, and grid upgrade needs. Plot 3 provides the required facility-level grid readiness audit for named plants in Nepal.
+
+- Informs Sizing and CAPEX for Electric Retrofits (Plots 2 & 6): The ToR emphasizes evaluating electric thermic fluid heaters and resistance/induction systems89. Plots 2 and 6 show that existing fossil/biomass heaters are heavily oversized (operating at 5%–48% load). If electric heaters were sized based on nameplate capacity, capital expenditure (CAPEX) and grid demand charges would be artificially inflated, making electrification appear economically unfeasible. Sizing electric systems based on actual implied thermal load dramatically reduces required equipment sizing, lowers CAPEX, and improves Net Present Value (NPV) and Internal Rate of Return (IRR) payback metrics.
+
+- Differentiates Sub-sector Electrification Feasibility (Plot 4): The ToR aims to produce a defensible, facility-differentiated estimate of fuel switching potential. Plot 4 identifies laminating (which already uses some electric heating) as the primary candidate for early direct electrification, while large rice husk and pellet thermal loops in printing may require hybrid configurations or biomass supply-chain optimization as outlined in the ToR.
