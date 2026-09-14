@@ -1,0 +1,19 @@
+AEPC Fuel-Switching Survey Validation Summary
+=============================================
+
+Companies: 7
+Units: 18
+Printing units: 11
+Laminating units: 7
+Units needing review: 13
+
+Fuel counts:
+fuel
+electric     11
+pellet        4
+rice husk     2
+diesel        1
+
+Hard anomaly records:
+               unit_id    industry_name  capacity_kw_thermal  running_hours_day  input_energy_kwh_day  implied_average_power_kw                                                                                              anomaly_flags
+850264496-laminating-1 Godawari Printng                 28.0               10.0                1096.0                     109.6 daily_energy_exceeds_rated_ceiling; implied_power_exceeds_capacity; reported_load_vs_implied_load_mismatch
